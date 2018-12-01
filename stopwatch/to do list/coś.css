@@ -1,0 +1,31 @@
+
+body
+{
+    margin: 0px;
+}
+.submit
+{
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.table
+{
+    display: flex;
+    height: 700px;
+}
+.todo
+{
+    background-color: red;
+    opacity: 0.7;
+    flex:1;
+    margin: 0 100px;
+}
+.done
+{
+    background-color: pink;
+    opacity: 0.7;
+    flex:1;
+margin: 0 100px;
+}
